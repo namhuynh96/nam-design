@@ -47,7 +47,7 @@ const translator = {
       heading: "About me",
       title: "Web engineer",
       content:
-        "With lots of experience in designing and developing websites, I will help yous to build a professional webpage which is run smoothly on every devices.",
+        "With lots of experience in designing and developing websites, I will help you to build a professional webpage which runs smoothly on every device.",
     },
     webTemplates: {
       heading: "Web templates",
