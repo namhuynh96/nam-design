@@ -289,6 +289,200 @@
   .u-section-5-3 .u-image-3 {
     min-height: 434px;
   }
+}.u-section-5-4 .u-sheet-1 {
+  min-height: 650px;
+}
+
+.u-section-5-4 .u-layout-wrap-1 {
+  margin-top: 85px;
+  margin-bottom: 60px;
+}
+
+.u-section-5-4 .u-image-1 {
+  min-height: 484px;
+  background-image: url("images/c3f9336a7468bc36e579.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5-4 .u-container-layout-1 {
+  padding-left: 0;
+}
+
+.u-section-5-4 .u-image-2 {
+  min-height: 484px;
+  background-image: url("images/c30cb52df22f3a71633e.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5-4 .u-container-layout-2 {
+  padding-left: 0;
+}
+
+.u-section-5-4 .u-image-3 {
+  min-height: 484px;
+  background-image: url("images/b52044c639c4f19aa8d5.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5-4 .u-container-layout-3 {
+  padding-left: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5-4 .u-sheet-1 {
+    min-height: 657px;
+  }
+
+  .u-section-5-4 .u-image-1 {
+    min-height: 399px;
+  }
+
+  .u-section-5-4 .u-image-2 {
+    min-height: 399px;
+  }
+
+  .u-section-5-4 .u-image-3 {
+    min-height: 399px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5-4 .u-image-1 {
+    min-height: 306px;
+  }
+
+  .u-section-5-4 .u-image-2 {
+    min-height: 306px;
+  }
+
+  .u-section-5-4 .u-image-3 {
+    min-height: 306px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5-4 .u-image-1 {
+    min-height: 689px;
+  }
+
+  .u-section-5-4 .u-image-2 {
+    min-height: 689px;
+  }
+
+  .u-section-5-4 .u-image-3 {
+    min-height: 689px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5-4 .u-image-1 {
+    min-height: 434px;
+  }
+
+  .u-section-5-4 .u-image-2 {
+    min-height: 434px;
+  }
+
+  .u-section-5-4 .u-image-3 {
+    min-height: 434px;
+  }
+}.u-section-5-5 .u-sheet-1 {
+  min-height: 650px;
+}
+
+.u-section-5-5 .u-layout-wrap-1 {
+  margin-top: 85px;
+  margin-bottom: 60px;
+}
+
+.u-section-5-5 .u-image-1 {
+  min-height: 484px;
+  background-image: url("images/9991fdaebaac72f22bbd.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5-5 .u-container-layout-1 {
+  padding-left: 0;
+}
+
+.u-section-5-5 .u-image-2 {
+  min-height: 484px;
+  background-image: url("images/5b58b224f5263d786437.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5-5 .u-container-layout-2 {
+  padding-left: 0;
+}
+
+.u-section-5-5 .u-image-3 {
+  min-height: 484px;
+  background-image: url("images/2b372b6e6c6ca432fd7d.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5-5 .u-container-layout-3 {
+  padding-left: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5-5 .u-sheet-1 {
+    min-height: 657px;
+  }
+
+  .u-section-5-5 .u-image-1 {
+    min-height: 399px;
+  }
+
+  .u-section-5-5 .u-image-2 {
+    min-height: 399px;
+  }
+
+  .u-section-5-5 .u-image-3 {
+    min-height: 399px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5-5 .u-image-1 {
+    min-height: 306px;
+  }
+
+  .u-section-5-5 .u-image-2 {
+    min-height: 306px;
+  }
+
+  .u-section-5-5 .u-image-3 {
+    min-height: 306px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5-5 .u-image-1 {
+    min-height: 689px;
+  }
+
+  .u-section-5-5 .u-image-2 {
+    min-height: 689px;
+  }
+
+  .u-section-5-5 .u-image-3 {
+    min-height: 689px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5-5 .u-image-1 {
+    min-height: 434px;
+  }
+
+  .u-section-5-5 .u-image-2 {
+    min-height: 434px;
+  }
+
+  .u-section-5-5 .u-image-3 {
+    min-height: 434px;
+  }
 }.u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/364ab57d599e96284eec6c186ad3c9e7.jpeg");
   background-position: 50% 50%;
@@ -307,6 +501,7 @@
 .u-section-1 .u-group-1 {
   min-height: 461px;
   width: 486px;
+  height: auto;
   margin: -92px auto 60px 44px;
 }
 
@@ -341,6 +536,7 @@
     width: 495px;
     margin-top: -50px;
     margin-left: 50px;
+    height: auto;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -1079,7 +1275,7 @@
 }
 
 .u-section-8 .u-layout-cell-1 {
-  min-height: 147px;
+  min-height: 240px;
   background-image: none;
 }
 
